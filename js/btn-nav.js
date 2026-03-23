@@ -29,7 +29,6 @@ export function btnNav() {
                     $navMobile.style.backgroundColor = 'transparent';
                 }
 
-                
             } else {
                 // está con la x desactivada, por ende se tiene que activar
                 
